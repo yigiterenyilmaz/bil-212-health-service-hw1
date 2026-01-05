@@ -1,5 +1,4 @@
 YİĞİT EREN YILMAZ 
-231101069
 
 Compile etmek için:
 Terminalden javac HealthAlertNotification.java ifadesi girilir
